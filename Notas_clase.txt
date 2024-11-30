@@ -1,0 +1,13 @@
+ls da una lista de los archivos y carpetas que hay en  una ubicación
+mkdir hace una carpeta con el nombre que tu quieras despues de poner el comando
+touch (doc.extension) crea documentos que tu quieras ejemplo
+	touch doc.csv
+cd cambiar de directorio. Ejemplo:
+cd documentos
+cd ../ regresar una carpeta anterior
+cd / te regresa a la carpeta raiz
+pwd indica la localizacion en la que te encuentras
+
+--------------
+git init inicia un repositorio tipo de git 
+
