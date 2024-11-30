@@ -11,3 +11,8 @@ pwd indica la localizacion en la que te encuentras
 --------------
 git init inicia un repositorio tipo de git 
 
+comando git clone sirve para clonar un repositorio en local
+SSH es una conexión encriptada
+GitHub CLI mediante línea de comandos gh repo clone Webos xd
+
+
